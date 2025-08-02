@@ -1,0 +1,192 @@
+body{
+    /* border: 2px solid red; */
+    background-color: black;
+    color: orangered;
+    margin: 0 auto;
+    padding: 20px;
+    display: grid;
+    /* width: 90%; */
+    
+}
+
+.mdd{
+    float: left;
+    width: 10%;
+
+    
+}
+
+a{
+    text-decoration: none;
+    color: rgb(185, 180, 180);
+}
+
+a:hover{
+    color: orangered;
+}
+
+.nav{
+    text-align: center;
+    position: fixed;
+    width: 85%;
+}
+
+li{
+    display: inline;
+    background-color: black;
+    padding: 20px;
+    width: 50%;
+
+}
+
+.one{
+    float: right;
+}
+
+.hire{
+    float: right;
+    width: 10%;
+    background-color: orangered;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.home{
+    padding: 20px;
+    margin-top: 90px;
+    
+}
+
+.two{
+    width: 50%;
+    float: left;
+    margin-right: 5%;
+}
+
+.img{
+    width: 24%;
+    border-radius: 50%;
+    margin-left: 100px;
+    
+}
+
+
+.name{
+    font-size: 30px;
+    color: gray;
+}
+
+.head{
+    font-size: 50px;
+}
+
+.para{
+    font-size: 20px;
+    color: gray;
+}
+
+.edu{
+    color: white;
+    font-size: small;
+    text-align: left;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    font-size: medium;
+}
+
+h3{
+    color: orangered;
+}
+
+.msc{
+    border: 2px solid white;
+    margin: 5px;
+    padding: 10px;
+}
+.bsc{
+    border: 2px solid white;
+    margin: 5px;
+    padding: 10px;
+}
+.hsc{
+    border: 2px solid white;
+    margin: 5px;
+    padding: 10px;
+}
+.sslc{
+    border: 2px solid white;
+    margin: 5px;
+    padding: 10px;
+}
+
+.skills{
+    color: white;
+    font-size: small;
+    text-align: left;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    font-size: medium;
+}
+
+.html{
+    border: 2px solid white;
+    margin: 5px;
+    padding: 10px;
+}
+.css{
+    border: 2px solid white;
+    margin: 5px;
+    padding: 10px;
+}
+.java{
+    border: 2px solid white;
+    margin: 5px;
+    padding: 10px;
+}
+.boot{
+    border: 2px solid white;
+    margin: 5px;
+    padding: 10px;
+}
+
+
+.cert{
+    color: white;
+    font-size: small;
+    text-align: left;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    font-size: medium;
+}
+
+.one{
+    border: 2px solid white;
+    margin: 5px;
+    padding: 10px;
+    height: 300px;
+}
+
+
+
+.left{
+    background-color: rgb(10, 10, 10);
+    border-radius: 20px;
+    width: 35%;
+    margin: 10px;
+    padding: 15px;
+    float: left;
+    line-height: 20px;    
+    text-align: left;
+    color: white;
+}
+
+.right{
+    width: 55%;
+    float: right;
+    background-color: rgb(10, 10, 10);
+    border-radius: 20px;    
+    margin: 10px;
+    padding: 15px;
+}
